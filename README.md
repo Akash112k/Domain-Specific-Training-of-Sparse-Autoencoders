@@ -1,7 +1,7 @@
 # Domain Specific Training of Sparse Autoencoders
 
 
-This project focusaes on:
+This project focuses on:
 * Leading advanced research on Sparse Autoencoders (SAEs) to improve model transparency, focusing on feature disentanglement and
 safety for real-world applications. Developing a framework that combines feature splitting, K-sparse activation, L1 regularization, and
 dynamic feature tracking for robust interpretability.
